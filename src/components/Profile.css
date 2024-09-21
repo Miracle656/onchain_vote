@@ -1,0 +1,21 @@
+.profileimage{
+    width: 10rem;
+    border-radius: 1rem;
+
+}
+
+.profilewrap{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #646cff;
+    color: white;
+    border-radius: 10px;
+    padding: 4rem;
+}
+
+.votepp{
+    background-color: white !important;
+    color: #646cff;
+    font-weight: bold;
+}
